@@ -16,7 +16,7 @@ import android.view.ViewGroup;
  */
 public class AnaSayfa extends Fragment {
 
-//deneme
+//deneme 1
     public AnaSayfa() {
         // Required empty public constructor
     }
